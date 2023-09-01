@@ -1,0 +1,6 @@
+
+localStorage
+getItem()
+setItem()
+removeItem()
+clear()
